@@ -1,4 +1,4 @@
-**# Pewlett-Hackard-Analysis**
+** Pewlett-Hackard-Analysis**
 
 The written analysis has the following:
 **Overview**
