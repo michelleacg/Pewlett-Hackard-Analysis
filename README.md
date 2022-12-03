@@ -1,11 +1,11 @@
-**Pewlett-Hackard-Analysis**
+#Pewlett-Hackard-Analysis
 
 
-**Overview**
+### Overview
 
 The purpose of the analysis is to future-proof Pewlett-Hackard to determining how many people will be retiring, of those employees, who is elegible for a retirement package, and who is elegible for mentorship with the upcoming positions that will be opening up as well with the so called "silver tsunami"
 
-**Results**
+### Results
 
 An Entity Relationship Diagram (ERD) has been created to understand the relationship between the tables, and columns can be mane, and the database can be built.  This schema is importand to desgn the database management system (DBMS) or relational dabatabse management systems (RDBMS).
 
@@ -23,7 +23,7 @@ Deliverable 2 shows a table and a file where a Mentorship Eligibility table that
 
 ![Deliverable 2](https://user-images.githubusercontent.com/111101012/205426263-e49d3c4f-d59d-4ef4-b12c-5a75cffee8d1.png)
 
-**Code Summary**
+### Code Summary 
 
 --Deliverable 1 
 
