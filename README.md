@@ -1,15 +1,14 @@
-# Pewlett-Hackard-Analysis
+**# Pewlett-Hackard-Analysis**
 
 The written analysis has the following:
-
-##Overview
+**Overview**
 The purpose of the analysis
 
-##Results:
+**Results**
 
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
-##Summary:
+**Summary**
 
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
