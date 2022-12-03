@@ -25,7 +25,7 @@ Deliverable 2 shows a table and a file where a Mentorship Eligibility table that
 
 ### Code Summary 
 
-**--Deliverable 1 **
+**Deliverable 1**
 
 -- 1.1 create retirement titles
 
